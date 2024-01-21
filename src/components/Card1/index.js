@@ -1,4 +1,6 @@
 import {FaEnvelope, FaMicrophone} from 'react-icons/fa'
+
+import {IoAppsOutline} from 'react-icons/io5'
 import './index.css'
 
 const Card1 = () => (
@@ -37,6 +39,10 @@ const Card1 = () => (
         <li className="reply">Forward</li>
         <li className="reply">Delete</li>
       </ul>
+      <p className="more">
+        <IoAppsOutline />
+        <span className="sp">more options</span>
+      </p>
     </div>
   </>
 )

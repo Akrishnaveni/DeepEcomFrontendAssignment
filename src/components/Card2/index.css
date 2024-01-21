@@ -1,0 +1,156 @@
+.card2-container {
+  background-color: white;
+  border-radius: 10px;
+  width: 420px;
+  margin-top: 95px;
+  margin-left: 20px;
+  height: 500px;
+}
+.header {
+  background-color: rgba(139, 136, 136, 0.2);
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  width: 190px;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+}
+.micro-icon {
+  padding-left: 100px;
+}
+.from {
+  padding-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20px;
+  font-size: 18px;
+}
+.sub {
+  padding-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.desc {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 14px;
+}
+
+.hr {
+  width: 360px;
+}
+.ul-list1 {
+  list-style-type: none;
+  display: flex;
+
+  font-size: 12px;
+  padding-right: 20px;
+}
+.reply {
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 10px;
+  background-color: rgb(176, 184, 181);
+  font-size: 12px;
+}
+.more {
+  color: rgba(78, 77, 78, 0.877);
+  background-color: transparent;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+
+  padding-left: 20px;
+  font-size: 14px;
+  width: 120px;
+  margin-left: 20px;
+}
+.sp {
+  margin-left: 10px;
+  padding-bottom: 20px;
+}
+.none {
+  padding-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.schedule-container {
+  margin-left: 20px;
+  background-color: rgb(120, 122, 122, 0.2);
+  border-radius: 15px;
+  padding-left: 18px;
+
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.nine {
+  border-right: 2px dotted rgb(36, 35, 35);
+  padding-right: 10px;
+  text-align: right;
+}
+.hr-schedule {
+  color: rgb(197, 193, 193);
+  padding-bottom: 28px;
+}
+.eleven {
+  color: rgb(201, 199, 199);
+  padding-bottom: 28px;
+  font-size: 12px;
+  padding-right: 10px;
+  border-right: 2px dotted rgb(36, 35, 35);
+  padding-top: 10px;
+}
+.plain {
+  background-color: rgb(151, 206, 238);
+  width: 200px;
+  height: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 8px;
+  font-weight: 500;
+}
+.coffee {
+  color: rgba(158, 153, 147, 0.781);
+  margin-left: 10px;
+}
+.plain-cont {
+  display: flex;
+  width: 260px;
+  margin-left: 27px;
+  font-size: 12px;
+}
+.border-less {
+  display: flex;
+  width: 260px;
+  margin-left: 27px;
+  font-size: 12px;
+}
+.one {
+  color: rgb(201, 199, 199);
+  padding-bottom: 28px;
+  font-size: 12px;
+  padding-right: 17px;
+  border-right: 2px solid rgb(150, 147, 147);
+  padding-top: 10px;
+}
+.three {
+  color: rgb(201, 199, 199);
+  padding-bottom: 28px;
+  font-size: 12px;
+  padding-right: 17px;
+  padding-left: 22px;
+}
+.Danny {
+  background-color: rgb(185, 183, 181);
+
+  width: 200px;
+  height: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 8px;
+  font-weight: 500;
+}
